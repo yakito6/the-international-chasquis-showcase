@@ -11,6 +11,16 @@ Demonstrate the progressive development of a scalable and secure web solution, a
 
 ---
 
+## 📐 Spec-Driven Development (SDD) & AI Orchestration
+
+This project is built using **Spec-Driven Development (SDD)** principles to ensure architectural consistency, maintainability, and enterprise-grade software standards:
+
+* **Specification First:** Detailed technical requirements, database schemas, and system workflows are fully documented prior to code implementation.
+* **Structured AI Orchestration:** Generative AI is leveraged as a high-velocity execution engine, guided under strict architectural guardrails, specification constraints, and human code reviews.
+* **Session & State Continuity:** Rigorous session logging and handoff tracking to eliminate technical debt and ensure predictable, scalable evolution.
+
+---
+
 ## 🛠️ Tech Stack & Engineering Tools
 
 ### Backend & Database
